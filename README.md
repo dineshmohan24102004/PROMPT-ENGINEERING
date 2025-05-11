@@ -1,4 +1,5 @@
 # Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+## Topic: Fundamentals of Generative AI
 ##  Introduction
  Generative Artificial Intelligence refers to a class of AI systems 
 capable of generating new content, such as text, images, music, and even code, by 
@@ -74,6 +75,8 @@ fundamentals, architectures, and applications, we can harness its power while
 addressing its challenges. As the field continues to evolve, ongoing research and 
 ethical considerations will play a crucial role in shaping its future.
  Large Language Models (LLMs)
+ 
+ ## topic : Large Language Models (LLMs)
 ## Introduction
  Large Language Models (LLMs) are a class of artificial intelligence 
 models designed to understand, generate, and manipulate human language. These 
